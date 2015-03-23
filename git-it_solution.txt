@@ -1,0 +1,6 @@
+1. Installed github for windows.
+2. Added my first repository using GitHub windows application.
+3. Run Git Shell.
+4. To test used : $ git --version
+5. Then done verifying the very first problem by
+   $ git-it verify

@@ -1,0 +1,6 @@
+1. Run git shell.
+2. cd to the parent folder.
+3. mkdir <repository name>
+4. cd <repository name>
+5. git init   << create git instance
+6. git status << to test
