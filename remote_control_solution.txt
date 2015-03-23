@@ -1,2 +1,4 @@
 1. Created new repository in github website.
-2. git remote add origin https://github.com/arsho/git-it_my_solutions.git
+2. $ git remote add origin https://github.com/arsho/git-it_my_solutions.git
+3. $ git remote set-url origin https://github.com/arsho/git-it_my_solutions.git
+4. $ git push -u origin master
