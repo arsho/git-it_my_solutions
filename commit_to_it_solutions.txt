@@ -1,8 +1,0 @@
-1. Run git shell.
-2. $ git status << to check the files.
-3. $ git add . << add all files
-4. $ git commit -m "first git commit"
-5. change content of any file in the repository.
-6. $ git diff << to see the difference. 
-7. $ git add . << to add all files that have been changed.
-8. $ git commit -m "changed one of the file"
